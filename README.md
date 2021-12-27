@@ -1,2 +1,3 @@
 # Predicting-Headcount-for-Extended-Warranty-Company
 Predicting Headcount for Extended Warranty Company
+In this project we are going to see if it is possible to closely forecast Calls from historical data for an extended warranty company. If we are able to accurately predict this, the company can use this information to plan for how many agents they will need in their call center to properly accommodate all the calls that they will get in their call center. At the end we give our recommendation to the company with a model and expected number of calls and how many agents they would need to satisfy those calls. 
